@@ -1,5 +1,5 @@
 ---
-title: "100 Days of DS Code Challenge. Day #0."
+title: "About"
 permalink: /about/
 read_time: false
 comments: false
@@ -8,7 +8,7 @@ related: false
 author_profile: false
 ---
 
-## План обучения
+**План обучения:**
 
 1. [Соревнования](https://mlcontests.com)
    * [How to Win a Data Science Competition](https://ru.coursera.org/learn/competitive-data-science)
