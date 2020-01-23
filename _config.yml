@@ -47,9 +47,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ningeen"
-    - label: "email"
-      icon: "fab fa-fw fa-envelope"
-      url: "sakaevruslan@gmail.com"
+
 
 # Site Footer
 footer:
