@@ -14,35 +14,42 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "ru-RU"
-title: Ningeen ML blog
-name: &name "Ruslan"
-description: &description "ML blog"
-email: your-email@example.com
-
-words_per_minute: 200
+title: "Learning Data Science"
+subtitle: "Success is the sum of small efforts - repeated day in and day out."
+name: &name "Ruslan S"
+description: &description "Blog about learning DS, ML & DL."
+logo: "/assets/images/logo.png"
+email: sakaevruslan@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://unsupervised.ru" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ningeen
+url: "https://unsupervised.ru" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ningeen
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes 
 minimal_mistakes_skin: "contrast"
 
+# Additional configs
+words_per_minute: 250
+search: true
+
 
 # Site Author
 author:
   name             : *name
-  avatar           : "/images/avatar.jpg"
-  bio              : "Unsupervised ML learner."
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Unsupervised ML learner"
   location         : "Russia, Ufa"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ningeen"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sakaevruslan/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ningeen"
+    - label: "email"
+      icon: "fab fa-fw fa-envelope"
+      url: "sakaevruslan@gmail.com"
 
 # Site Footer
 footer:
@@ -53,7 +60,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sakaevruslan/"
-     
+
+      
 # Reading Files
 include:
   - .htaccess
@@ -119,7 +127,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Yekaterinburg # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
@@ -158,3 +166,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
