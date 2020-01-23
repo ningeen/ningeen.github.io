@@ -31,7 +31,7 @@ minimal_mistakes_skin: "contrast"
 
 # Additional configs
 words_per_minute: 250
-search: true
+# search: true
 
 
 # Site Author
