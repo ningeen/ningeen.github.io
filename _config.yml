@@ -17,7 +17,7 @@ locale: "ru-RU"
 title: "Learning Data Science"
 subtitle: "Success is the sum of small efforts - repeated day in and day out."
 name: &name "Ruslan S"
-description: &description "Blog about learning DS, ML & DL."
+description: &description "Blog about learning Data Science, Machine Learning & Deep Learning"
 logo: "/assets/images/logo.png"
 email: sakaevruslan@gmail.com
 
@@ -38,7 +38,7 @@ words_per_minute: 250
 author:
   name             : *name
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Unsupervised ML learner"
+  bio              : "Unsupervised DS learner"
   location         : "Russia, Ufa"
   links:
     - label: "LinkedIn"
