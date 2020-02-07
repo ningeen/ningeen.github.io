@@ -21,7 +21,7 @@ author_profile: false
 1. Математика
    * [Mathematics for Machine Learning](https://mml-book.github.io)
    * [Теория вероятностей](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
-   * [Статистика Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+   * [Статистика Stanford](https://www.edx.org/course/statistical-learning)
    * [Статистика Harvard](https://projects.iq.harvard.edu/stat110)
    * [Алгоритмы](http://web.stanford.edu/class/archive/cs/cs161/cs161.1182/)
 1. [Harvard CS50](https://cs50.harvard.edu/college/2019/fall/)
