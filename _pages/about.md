@@ -11,7 +11,7 @@ author_profile: false
 1. [Соревнования](https://mlcontests.com)
    * [How to Win a Data Science Competition](https://ru.coursera.org/learn/competitive-data-science)
 1. Machine learning
-   * Learning from Data [Abu Mostafa]
+   * [Learning from Data](https://work.caltech.edu/telecourse.html)
    * [Специализация от Яндекса](https://ru.coursera.org/specializations/machine-learning-data-analysis)
    * Python Machine Learning [Raschka] / Hands on machine learning [Geron]
 1. Deep learning
