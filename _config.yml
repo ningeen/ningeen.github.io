@@ -22,7 +22,7 @@ logo: "/assets/images/logo.png"
 email: sakaevruslan@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ningeen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ningeen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ningeen
 
 # Build settings
