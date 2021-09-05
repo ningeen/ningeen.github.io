@@ -38,7 +38,7 @@ words_per_minute: 250
 author:
   name             : *name
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Data Scientist as Sberbank \nStudent at MADE (Mail.ru Group)"
+  bio              : "Data Scientist as Sberbank"
   location         : "Russia, Moscow"
   links:
     - label: "LinkedIn"
