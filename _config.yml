@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: "ru-RU"
+locale: "en-EN"
 title: "Learning Data Science"
 subtitle: "Success is the sum of small efforts - repeated day in and day out."
 name: &name "Ruslan Sakaev"
