@@ -16,13 +16,13 @@
 locale: "ru-RU"
 title: "Learning Data Science"
 subtitle: "Success is the sum of small efforts - repeated day in and day out."
-name: &name "Ruslan S"
+name: &name "Ruslan Sakaev"
 description: &description "Blog about learning Data Science, Machine Learning & Deep Learning"
 logo: "/assets/images/logo.png"
 email: sakaevruslan@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://unsupervised.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ningeen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ningeen
 
 # Build settings
@@ -38,8 +38,8 @@ words_per_minute: 250
 author:
   name             : *name
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Unsupervised DS learner"
-  location         : "Russia, Ufa"
+  bio              : "Data Scientist as Sberbank \nStudent at MADE (Mail.ru Group)"
+  location         : "Russia, Moscow"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
